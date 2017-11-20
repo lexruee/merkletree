@@ -1,4 +1,4 @@
 merkletree
 ==========
 
-.. image:: https://raw.githubusercontent.com/lexruee/merkletree/master/merkeltree.png
+.. image:: https://raw.githubusercontent.com/lexruee/merkletree/master/merkletree.png
